@@ -18,8 +18,8 @@ const Guide = () => {
             Only with the hlink application you will no longer get lost and get
             lost again, because we already support offline maps when there is no
             internet connection in the field. Invite your friends, relatives to
-            have fun in the wilderness thriugh the valey and reach te top of the
-            moutain
+            have fun in the wilderness through the valley and reach the top of
+            the mountain.
           </p>
         </div>
       </div>
